@@ -1,4 +1,6 @@
-Machaera Altus Nox (Aurorae)
+# Machaera Altus Nox (Aurorae)
+
+https://github.com/oversword/Machaera-Altus-Nox-Aurorae
 
 Machaera Altus Nox is a modern, color-schemeable KDE Plasma theme, with a futuristic, mechanical design.
 
